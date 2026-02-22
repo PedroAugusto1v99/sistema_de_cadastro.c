@@ -55,7 +55,7 @@ int main() {
         
         printf("O nome do aluno é: %s", nome);
         printf("O gmail do aluno é: %s", gmail);
-        printf("O contato do aluno é: %s,", contato);
+        printf("O contato do aluno é: %s", contato);
         printf("O endereço do aluno é: %s", endereco);
         printf("O curso do aluno é: %s", curso);
         printf("O turno do aluno é: %s", turno);
